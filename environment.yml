@@ -2,6 +2,7 @@ name: credit_risk
 channels:
   - defaults
 dependencies:
+- pip
 - python
 - jupyter
 # data manipulation
@@ -18,3 +19,4 @@ dependencies:
 - scikit-learn
 - xgboost 
 - tensorflow 
+- optuna
