@@ -1,5 +1,2 @@
 # ignore ALL constructed csv files
-dataset\kaggle_pd_estimation\X_test.csv
-kaggle_pd_estimation/X_train.csv 
-kaggle_pd_estimation/y_train.csv
-kaggle_pd_estimation/y_test.csv
+**\dataset\kaggle_pd_estimation
