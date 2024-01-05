@@ -1,6 +1,4 @@
-# folder
-
-# files
+# ignore ALL constructed csv files
 **/kaggle_pd_estimation/X_test.csv 
 **/kaggle_pd_estimation/X_train.csv 
 **/kaggle_pd_estimation/y_train.csv
